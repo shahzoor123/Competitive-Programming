@@ -7,7 +7,7 @@ if nums[0] > nums[1]:
 
     nums = nums[1] == nums[0]
     print(nums)
-
+print("hello")
 
 
 # for i in nums:
