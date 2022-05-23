@@ -1,22 +1,14 @@
-from tempfile import tempdir
-
-
 nums = [2,0,2,1,1,0]
 
-if nums[0] > nums[1]:
-
-    nums = nums[1] == nums[0]
-    print(nums)
-print("hello")
 
 
-# for i in nums:
-#     for j in nums:
-#         if i > j + 1 :
-#             temp = 0
-#             nums[i] == temp
-#             temp = nums[j]
-#             nums += temp
-#             print (nums)
+for i in nums:
+    for j in nums:
+        if i > j + 1 :
+            temp = 0
+            nums[i] == temp
+            temp = nums[j]
+            
+            print (nums)
 
-#             # print(nums)
+            # print(nums)
