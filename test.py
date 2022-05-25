@@ -4,6 +4,7 @@ for i in nums:
         if i > j + 1 :
             print(i)
             print(nums)
+            print(nums)
             
           
 
